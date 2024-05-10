@@ -1,7 +1,9 @@
+import Root from "./routes";
+
 const App = () => {
   return (
     <div>
-      <p>Hello GTNT!</p>
+      <Root />
     </div>
   );
 };
